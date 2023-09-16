@@ -101,7 +101,6 @@ D83,Down,D_SOD-123,337.2,-144.6,90.0,bottom
 D84,Left,D_SOD-123,356.4,-145.0,90.0,bottom
 D85,Knob,D_SOD-123,355.9,-46.5,90.0,bottom
 F1,500mA,Fuse_1206_3216Metric,83.125,-31.2,270.0,bottom
-J1,Conn_01x05,PinHeader_1x05_P2.54mm_Vertical,163.7,-150.7,90.0,bottom
 J2,USB_C_Receptacle_USB2.0,USB_C_Receptacle_HRO_TYPE-C-31-M-12,88.1,-22.39,180.0,bottom
 MX1,MX_SW_HS,SW_MX_HS_1u,78.6,-43.05,0.0,bottom
 MX2,MX_SW_HS,SW_MX_HS_1u,97.65,-43.05,0.0,bottom
