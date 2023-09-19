@@ -24,11 +24,11 @@ TODO - Probably going to happen when I get the pcb, case is going to be availabl
 ## Progress
 
 - [x] Design the schematic (Done on 2023-09-08)
-- [] Come up with a name + Design logo
+- [ ] Come up with a name + Design logo
 - [x] Design the PCB ("Done" on 2023-09-17 (Still need to add silkscreen design))
-- [] Order the PCB and its parts
-- [] Construct PCB
-- [] Port QMK + VIA/VIAL
-- [] Design case for a 3d printer
-- [] Design case for acrylic stacking
-- [] Design case for metal CNC
+- [ ] Order the PCB and its parts
+- [ ] Construct PCB
+- [ ] Port QMK + VIA/VIAL
+- [ ] Design case for a 3d printer
+- [ ] Design case for acrylic stacking
+- [ ] Design case for metal CNC
