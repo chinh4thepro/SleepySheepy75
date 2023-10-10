@@ -24,8 +24,8 @@ TODO - Probably going to happen when I get the pcb, case is going to be availabl
 ## Progress
 
 - [x] Design the schematic (Done on 2023-09-08)
-- [x] Come up with a name + Design logo
-- [x] Design the PCB ("Done" on 2023-09-17 (Still need to add silkscreen design))
+- [x] Come up with a name + Design logo (Done on 2023-10-07 (Scrapped on PCB though))
+- [x] Design the PCB (Done on 2023-09-17)
 - [ ] Order the PCB and its parts
 - [ ] Construct PCB
 - [ ] Port QMK + VIA/VIAL
